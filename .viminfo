@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1790880286,,"wq"
+|2,0,1792095408,,"wq"
 :q
-|2,0,1790880211,,"q"
+|2,0,1791312888,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,182 +27,367 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/.gitignore
-|4,48,1,2,1790880286,"~/.gitignore"
-'1  15  8  ~/new.c
-|4,49,15,8,1790880211,"~/new.c"
-'2  15  8  ~/new.c
-|4,50,15,8,1790877740,"~/new.c"
-'3  15  9  ~/new.c
-|4,51,15,9,1790877660,"~/new.c"
-'4  15  9  ~/new.c
-|4,52,15,9,1790877660,"~/new.c"
-'5  12  19  ~/new.c
-|4,53,12,19,1790877486,"~/new.c"
-'6  12  19  ~/new.c
-|4,54,12,19,1790877486,"~/new.c"
-'7  12  19  ~/new.c
-|4,55,12,19,1790877486,"~/new.c"
-'8  12  19  ~/new.c
-|4,56,12,19,1790877486,"~/new.c"
-'9  12  19  ~/new.c
-|4,57,12,19,1790877486,"~/new.c"
+'0  2  98  ~/dsaoct15/profile.c
+|4,48,2,98,1792095408,"~/dsaoct15/profile.c"
+'1  19  0  ~/seg_fault2.c
+|4,49,19,0,1792086730,"~/seg_fault2.c"
+'2  8  8  ~/seg_fault2.c
+|4,50,8,8,1792086071,"~/seg_fault2.c"
+'3  8  8  ~/seg_fault2.c
+|4,51,8,8,1792086071,"~/seg_fault2.c"
+'4  19  56  ~/seg_fault2.c
+|4,52,19,56,1792085425,"~/seg_fault2.c"
+'5  16  8  ~/seg_fault2.c
+|4,53,16,8,1792085425,"~/seg_fault2.c"
+'6  16  8  ~/seg_fault2.c
+|4,54,16,8,1792085425,"~/seg_fault2.c"
+'7  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,55,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+'8  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,56,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+'9  1  0  ~/oct6/arrays.c
+|4,57,1,0,1791312177,"~/oct6/arrays.c"
 
 # Jumplist (newest first):
--'  1  2  ~/.gitignore
-|4,39,1,2,1790880286,"~/.gitignore"
--'  15  8  ~/new.c
-|4,39,15,8,1790880211,"~/new.c"
--'  15  8  ~/new.c
-|4,39,15,8,1790880211,"~/new.c"
--'  15  8  ~/new.c
-|4,39,15,8,1790877740,"~/new.c"
--'  15  8  ~/new.c
-|4,39,15,8,1790877740,"~/new.c"
--'  15  9  ~/new.c
-|4,39,15,9,1790877660,"~/new.c"
--'  15  9  ~/new.c
-|4,39,15,9,1790877660,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877529,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877486,"~/new.c"
--'  12  19  ~/new.c
-|4,39,12,19,1790877486,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877349,"~/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  1  0  /mnt/c/Users/jmjx6368/new.c
-|4,39,1,0,1790877236,"/mnt/c/Users/jmjx6368/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877035,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877035,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877035,"~/new.c"
--'  11  19  ~/new.c
-|4,39,11,19,1790877035,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
--'  1  0  ~/new.c
-|4,39,1,0,1790876463,"~/new.c"
+-'  2  98  ~/dsaoct15/profile.c
+|4,39,2,98,1792095408,"~/dsaoct15/profile.c"
+-'  1  0  ~/dsaoct15/profile.c
+|4,39,1,0,1792094813,"~/dsaoct15/profile.c"
+-'  19  0  ~/seg_fault2.c
+|4,39,19,0,1792086730,"~/seg_fault2.c"
+-'  19  0  ~/seg_fault2.c
+|4,39,19,0,1792086730,"~/seg_fault2.c"
+-'  8  8  ~/seg_fault2.c
+|4,39,8,8,1792086191,"~/seg_fault2.c"
+-'  8  8  ~/seg_fault2.c
+|4,39,8,8,1792086191,"~/seg_fault2.c"
+-'  8  8  ~/seg_fault2.c
+|4,39,8,8,1792086071,"~/seg_fault2.c"
+-'  8  8  ~/seg_fault2.c
+|4,39,8,8,1792086071,"~/seg_fault2.c"
+-'  16  8  ~/seg_fault2.c
+|4,39,16,8,1792085963,"~/seg_fault2.c"
+-'  16  8  ~/seg_fault2.c
+|4,39,16,8,1792085963,"~/seg_fault2.c"
+-'  16  8  ~/seg_fault2.c
+|4,39,16,8,1792085425,"~/seg_fault2.c"
+-'  16  8  ~/seg_fault2.c
+|4,39,16,8,1792085425,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/seg_fault2.c
+|4,39,1,0,1792085224,"~/seg_fault2.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+|4,39,1,0,1791312888,"~/data-structures-algorithms-arrays-pointers-shellees/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  1  0  ~/oct6/arrays.c
+|4,39,1,0,1791312177,"~/oct6/arrays.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  28  10  ~/oct6/array.c
+|4,39,28,10,1791311032,"~/oct6/array.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
+-'  1  0  ~/oct1/new.c
+|4,39,1,0,1791310596,"~/oct1/new.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/.gitignore
-	*	1790880272	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
+> ~/dsaoct15/profile.c
+	*	1792095402	0
+	"	2	98
+	^	2	99
+	.	3	0
+	+	3	0
+
+> ~/seg_fault2.c
+	*	1792086727	0
+	"	19	0
+	^	19	0
+	.	20	0
+	+	11	1
+	+	19	59
+	+	19	58
+	+	19	48
+	+	19	56
+	+	8	8
+	+	19	48
+	+	19	49
+	+	19	0
+	+	19	48
+	+	9	0
+	+	19	1
+	+	19	61
+	+	18	0
+	+	20	0
+
+> ~/data-structures-algorithms-arrays-pointers-shellees/arrays.c
+	*	1791312885	0
+	"	1	0
+
+> ~/oct6/arrays.c
+	*	1791312169	0
+	"	1	0
+	^	1	0
+
+> ~/oct6/array.c
+	*	1791311025	0
+	"	28	10
+	^	28	11
+	.	28	10
+	+	26	48
+	+	28	10
+
+> ~/oct1/new.c
+	*	1791310233	0
+	"	1	0
+
+> ~/oct1/functions.c
+	*	1791310220	0
+	"	14	35
+	^	14	36
+	.	14	35
+	+	17	13
+	+	18	4
+	+	19	56
+	+	21	22
+	+	2	38
+	+	14	23
+	+	21	29
+	+	11	14
+	+	12	1
+	+	14	35
+
+> ~/oct6/array
+	*	1791309786	0
+	"	26	48
+	^	26	49
+	.	26	39
+	+	6	1
+	+	3	23
+	+	28	0
+	+	16	15
+	+	29	0
+	+	18	12
+	+	17	9
+	+	18	16
+	+	19	0
+	+	10	40
+	+	13	0
+	+	15	0
+	+	13	0
+	+	12	15
+	+	26	30
+	+	8	15
+	+	26	39
+
+> ~/functions.c
+	*	1790889584	0
+	"	1	0
+
+> ~/data-structures-algorithms-for-loop-shellees/functions.c
+	*	1790889039	0
+	"	17	17
+	^	17	18
+	.	17	17
+	+	5	3
+	+	4	2
+	+	9	42
+	+	15	16
+	+	13	10
+	+	15	11
+	+	13	3
+	+	19	0
+	+	6	17
+	+	18	9
+	+	17	23
+	+	3	0
+	+	14	55
+	+	11	0
+	+	22	1
+	+	25	0
+	+	24	13
+	+	15	6
+	+	12	9
+	+	25	1
+	+	12	11
+	+	15	32
+	+	16	14
+	+	7	18
+	+	17	17
+
+> ~/data-structures-algorithms-for-loop-shellees/functions
+	*	1790888581	0
+	"	1	0
+
+> ~/data-structures-algorithms-for-loop-shellees/loop.c
+	*	1790886787	0
+	"	14	17
+	^	14	18
+	.	14	17
+	+	14	17
 
 > ~/new.c
-	*	1790877745	0
+	*	1790880313	0
 	"	15	8
 	^	15	9
 	.	15	8
@@ -215,6 +400,13 @@
 	+	10	10
 	+	9	10
 	+	15	8
+
+> ~/.gitignore
+	*	1790880272	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > /mnt/c/Users/jmjx6368/new.c
 	*	1790877215	0
