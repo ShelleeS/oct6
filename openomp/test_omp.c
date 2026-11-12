@@ -1,0 +1,15 @@
+#include <stdio.h>     // printf()
+#include <omp.h>       // OpenMP
+
+int main(int argc, char** argv) {
+
+    printf("\nBefore...\n");
+
+    #pragma omp parallel
+    printf("\nDuring...");
+
+    printf("\n\nAfter...\n\n");
+
+    return 0;
+}
+
